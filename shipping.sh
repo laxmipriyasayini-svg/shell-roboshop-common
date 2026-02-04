@@ -2,6 +2,7 @@
 
 source ./common.sh
 app_name=shipping
+MYSQL_HOST=mysql.daws88sdev.online
 
 check_root
 app_setup
